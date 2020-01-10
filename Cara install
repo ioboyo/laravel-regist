@@ -1,0 +1,5 @@
+# Efiling-Online-Visa-Registration
+Laravel based project, website untuk pengajuan visa online.
+
+1. Clone repo ke directory tujuan.
+2. Import DB yang ada dengan nama file evisa.sql.
