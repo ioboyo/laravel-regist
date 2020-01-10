@@ -1,6 +1,6 @@
 # Efiling-Online-Visa-Registration
 
-Laravel based project, website untuk pengajuan visa online.
+Laravel based project, website untuk Registrasi online.
 
 1. Download repo ke direktori yang di inginkan
 2. Buat DB baru dengan nama evisa dan Import file evisa.sql ke MySQL.
@@ -11,7 +11,7 @@ Laravel based project, website untuk pengajuan visa online.
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=evisa
+DB_DATABASE=regis
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -30,6 +30,4 @@ composer install
 php artisan serve
 ```
 
-# Tampilan Landing 
-![alt text](./contoh-landing.png)
 # Semoga Bermanfaat - Terimakasih.
